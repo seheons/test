@@ -1,0 +1,54 @@
+{
+  "workflows": [
+    {
+      "MasterID": 1,
+      "WfNo": "180418000001",
+      "DocType": "POR",
+      "EmployeeName": "김흥식",
+      "DepartName": "기획팀",
+      "Title": "테스트1",
+      "Status": "E",
+      "Box": "E"
+    },
+    {
+      "MasterID": 2,
+      "WfNo": "180418000002",
+      "DocType": "POR",
+      "EmployeeName": "홍성근",
+      "DepartName": "기획팀",
+      "Title": "테스트2222",
+      "Status": "E",
+      "Box": "E"
+    },
+    {
+      "MasterID": 3,
+      "WfNo": "180502000001",
+      "DocType": "POR",
+      "EmployeeName": "박나영",
+      "DepartName": "기획팀",
+      "Title": "테스트333",
+      "Status": "N",
+      "Box": "N"
+    },
+    {
+      "MasterID": 4,
+      "WfNo": "180503000003",
+      "DocType": "POR",
+      "EmployeeName": "김종태",
+      "DepartName": "기획팀",
+      "Title": "테스트4444",
+      "Status": "E",
+      "Box": "E"
+    },
+    {
+      "MasterID": 5,
+      "WfNo": "180602000001",
+      "DocType": "POR",
+      "EmployeeName": "이선영",
+      "DepartName": "기획팀",
+      "Title": "테스트55555",
+      "Status": "N",
+      "Box": "N"
+    }
+  ]
+}
